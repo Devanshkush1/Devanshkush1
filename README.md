@@ -1,5 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/76/e9/23/76e9238fca30a0fc41b6f5fac75b516b.jpg)](https://www.linkedin.com/in/devansh-kushwaha-19741a258)
 <h1 align="center">Hi 👋, I'm Devansh Kushwaha</h1>
+<h2 align="center">I am Pursuing Bachelor of Technology in Computer Science and Engineering from Institute of Engineering and Technology Lucknow</h2>
 <h3 align="center">Unlocking the Power of Programming: A Journey into the World of Coding.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
@@ -28,8 +29,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devanshkush1&" alt="devanshkush1" /></p>
 
 <h1 align="center">Hacktober Fest 2023 </h1>
-
-
 
 [![An image of @devanshkush1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devanshkush1)](https://holopin.io/@devanshkush1)
 
